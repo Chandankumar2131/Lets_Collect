@@ -1,1 +1,1 @@
-﻿MERN Stack Project intigrated AI
+﻿MERN Stack Project and  intigrated AI 
